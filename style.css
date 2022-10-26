@@ -56,13 +56,12 @@ p {
     font-size: 16px;
 }
 
-/*Hero Div containing Image*/
+/*Hero Div*/
 
 .hero {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
-    background-size: %;
 }
 
 /*Float*/
@@ -117,6 +116,7 @@ main {
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
+    
 }
 
 .benefit {
@@ -140,13 +140,13 @@ main {
 
 /*Footer*/
 
-.footer {
+footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
 
-.footer h2 {
+footer h2 {
     font-size: 20px;
 }
